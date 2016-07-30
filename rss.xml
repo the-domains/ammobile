@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ammobile]]></title>
+        <description><![CDATA[ammobile]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 30 Jul 2016 18:39:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The Smart Mobile Super Store </p>]]></description>
+            <link>undefinedthe-smart-mobile-super-store/index.html</link>
+            <guid isPermaLink="false">28cc5485-c8ef-466a-b2d7-c44bfb7e3474</guid>
+            <pubDate>Sat, 30 Jul 2016 18:39:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
