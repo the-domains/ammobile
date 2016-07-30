@@ -1,0 +1,28 @@
+name: ammobile
+favicon: null
+layout_spectrum: 0.40030154725536704
+typography_spectrum: 0.41276344167999923
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.997025985037908
+  lightness: 0.46594079164788127
+  saturation: 0.9403530778363347
+  rhythmicContrast: 0.4247525439132005
+purpose: []
